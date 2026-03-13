@@ -2,7 +2,8 @@
 
 ProVA is a desktop-based productivity voice assistant built using Python.  
 It automates common tasks such as file management, reminders, email operations, and spreadsheet handling using voice commands.
-
+## Application Interface
+![ProVA Interface](prova-ui.png)
 ## Features
 
 - Voice command recognition
