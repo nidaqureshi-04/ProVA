@@ -1,0 +1,5 @@
+{
+  "_instructions": "Add contacts here. Key = spoken name (lowercase), value = email address.",
+  "example": "example@gmail.com",
+  "nida and qureshi 04": "nidanqureshi04@gmail.com"
+}
