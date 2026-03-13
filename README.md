@@ -8,13 +8,13 @@ It automates common tasks such as file management, reminders, email operations, 
 
 ## Features
 
-- Voice command recognition
-- File and folder management
-- Email task automation
-- Excel operations
-- Reminder scheduling
-- App Launching and Web Search 
-- GUI interface for interaction
+- **Voice Command Recognition** – Converts user speech into executable commands.
+- **File & Folder Management** – Navigate, create, rename, and manage files using voice instructions.
+- **Email Automation** – Perform basic email-related tasks through voice commands.
+- **Excel Operations** – Execute spreadsheet-related actions and automate routine Excel tasks.
+- **Reminder Scheduling** – Set and manage reminders for tasks and events.
+- **Application Launching & Web Search** – Open applications and perform quick web searches via voice.
+- **Interactive GUI** – User-friendly desktop interface built with PyQt5 for seamless interaction.
 
 ## Tech Stack
 
